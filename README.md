@@ -8,7 +8,7 @@ Un tutoriel simple et illustré pour créer une playlist personnelle, préparer 
 
 ### 🇫🇷 Français
 
-👉 [Consulter le tutoriel complet en français](tutoriel.html)
+👉 [Consulter le tutoriel complet en français](index.html)
 
 ### 🇬🇧 English
 
