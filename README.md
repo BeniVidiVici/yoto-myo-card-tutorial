@@ -33,7 +33,7 @@ Un tutoriel simple et illustré pour créer une playlist personnelle, préparer 
 - Un Yoto Player connecté au Wi-Fi
 - Une carte Yoto officielle **Make Your Own (MYO)**
 - Une carte NFC vierge compatible **MIFARE Ultralight EV1 – 48 bytes**
-- Un téléphone Android équipé du NFC
+- Un téléphone équipé du NFC
 - L’application **Yoto**
 - L’application **NFC TagWriter by NXP**
 - Un ordinateur
