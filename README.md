@@ -4,7 +4,7 @@ Un tutoriel simple et illustré pour créer une playlist Yoto, préparer une car
 
 ## 📖 Consulter le tutoriel
 
-👉 [Ouvrir le tutoriel complet](https://benividivici.github.io/tutoriel-yoto/)
+👉 [Ouvrir le tutoriel complet](https://benividivici.github.io/yoto-myo-card-tutorial)
 
 ## ✅ Le tutoriel explique comment
 
