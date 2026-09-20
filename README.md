@@ -49,6 +49,7 @@ Un tutoriel simple et illustré pour créer une playlist personnelle, préparer 
 
 Vérifiez impérativement la mention **MIFARE Ultralight EV1 – 48 bytes** avant l’achat.
 
+- [Cartes MIFARE Ultralight EV1 sur AliExpress](https://fr.aliexpress.com/item/1005010375397661.html)
 - [Carte vierge sur ABCRFID](https://www.abcrfid.com/product/13-56mhz-mifare-ultralight-ev1-mf-blank-smart-rfid-card/)
 - [Cartes compatibles sur Amazon](https://amzn.eu/d/0fClco0a)
 
